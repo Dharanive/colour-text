@@ -1,0 +1,25 @@
+.back{
+    height: 100vh;
+    width: 100%;
+    background : antiquewhite;
+    border: 2px solid;
+    background-image: url("https://media.tenor.com/Nnw13J5wP-QAAAAC/jailer-lal-salaam.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.text
+{
+    text-align: center;
+    
+    background: transparent;
+    margin-top: 300px;
+    transition-duration: 1s;
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+    font-weight: bolder;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+}
+
